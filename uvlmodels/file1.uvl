@@ -16,4 +16,4 @@ features
 
 constraints
     Server => "Data Storage"
-    Video | Audio => "Media Player y otro"
+    Video | Audio => "Media Player"
